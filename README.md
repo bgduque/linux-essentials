@@ -159,7 +159,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Last updated: 2025-03-04 by bgduque*
-```
-
-For questions or suggestions, please open an issue or contact the repository owner.
+<div align="center" style="font-style: italic;">Last updated: 2025-03-04 by bgduque</div>
