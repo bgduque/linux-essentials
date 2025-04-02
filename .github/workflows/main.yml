@@ -11,13 +11,13 @@ jobs:
       
       - name: Run logging script
         run: |
-          chmod +x counts.sh
+          chmod +x log_time.sh
           ./log_time.sh
       
       - name: Count log updates
         run: |
-          chmod +x count_logs.sh
-          ./count_logs.sh
+          chmod +x counts.sh
+          ./counts.sh
       
       - name: Commit and push changes
         run: |
